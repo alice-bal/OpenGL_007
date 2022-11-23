@@ -1,6 +1,6 @@
 ## TUTORIALS
 
- > Обучалки -------------------
+ > ______________________________ обучалки
 
 [книга](http://pm.samgtu.ru/sites/pm.samgtu.ru/files/materials/comp_graph/RedBook_OpenGL.pdf)
 
@@ -10,11 +10,11 @@
 
 [странные туторы](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
 
-> Вспомогалки -----------------
+> ______________________________ вспомогалки
 
 [конвертер цветов](https://colorscheme.ru/color-converter.html)
 
-> Примеры ---------------------
+> ______________________________ примеры
 
 [примеры GIT](https://github.com/progschj/OpenGL-Examples)
 
@@ -26,7 +26,7 @@
 
 [цветные кружочки](https://github.com/nikolas/stars)
 
-> Инструменты ------------------
+> ______________________________ инструменты
 
 [звезда координаты](https://intuit.ru/studies/courses/595/451/lecture/10074?page=10)
 
