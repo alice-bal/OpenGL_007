@@ -1,30 +1,34 @@
 ## TUTORIALS
 
-> [туторы Basic OpenGL](http://www.opengl-tutorial.org/beginners-tutorials/)
+[книга](http://pm.samgtu.ru/sites/pm.samgtu.ru/files/materials/comp_graph/RedBook_OpenGL.pdf)
 
-> [норм туторы](http://citforum.ru/programming/opengl/opengl_05.shtml)
+[туторы Basic OpenGL](http://www.opengl-tutorial.org/beginners-tutorials/)
 
-> [странные туторы](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
+[норм туторы](http://citforum.ru/programming/opengl/opengl_05.shtml)
 
-> [книга](http://pm.samgtu.ru/sites/pm.samgtu.ru/files/materials/comp_graph/RedBook_OpenGL.pdf)
+[странные туторы](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
 
-> [примитивы Вики](https://www.khronos.org/opengl/wiki/Primitive)
+>
 
-> [конвертер цветов](https://colorscheme.ru/color-converter.html)
+[конвертер цветов](https://colorscheme.ru/color-converter.html)
+
+>
 
 [примеры GIT](https://github.com/progschj/OpenGL-Examples)
 
-[шестеренки относительно друг друга](http://www.gamedev.ru/code/forum/?id=126000)
+[шестеренки](http://www.gamedev.ru/code/forum/?id=126000)
 
 [часы](https://russianblogs.com/article/1931477112/)
 
 [круги на воде](https://github.com/Liza-S/Simple-Animation-of-circles-OpenGL)
 
+[цветные кружочки](https://github.com/nikolas/stars)
+
+>
+
 [звезда координаты](https://intuit.ru/studies/courses/595/451/lecture/10074?page=10)
 
-> [шестеренки в гугл](https://www.google.com/search?q=gears+animation+opengl&oq=gears+animation+opengl&aqs=chrome..69i57j33i160l2.6589j0j7&sourceid=chrome&ie=UTF-8)
-
-> [компиляция Opgl](http://titan.csit.rmit.edu.au/~e20068/teaching/i3dg&a/2016/compiling.html)
+[компиляция Opgl](http://titan.csit.rmit.edu.au/~e20068/teaching/i3dg&a/2016/compiling.html)
 
 ## BUILD & RUN 
 
