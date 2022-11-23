@@ -8,11 +8,11 @@
 
 [странные туторы](https://www.opengl.org/resources/libraries/glut/spec3/spec3.html)
 
->
+> -------------------
 
 [конвертер цветов](https://colorscheme.ru/color-converter.html)
 
->
+> -------------------
 
 [примеры GIT](https://github.com/progschj/OpenGL-Examples)
 
@@ -24,7 +24,7 @@
 
 [цветные кружочки](https://github.com/nikolas/stars)
 
->
+> -------------------
 
 [звезда координаты](https://intuit.ru/studies/courses/595/451/lecture/10074?page=10)
 
