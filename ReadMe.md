@@ -28,6 +28,8 @@
 
 [компиляция Opgl](http://titan.csit.rmit.edu.au/~e20068/teaching/i3dg&a/2016/compiling.html)
 
+----------------------------------------------------------------------
+
 ## BUILD & RUN 
 
 ### with terminal
