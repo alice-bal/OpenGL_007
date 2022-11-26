@@ -36,7 +36,7 @@ export default class {
         this.plane.rotation.x = -0.3 * Math.PI;                                     // поворот   
         this.plane.position.x = 15;                                                 // координаты
         this.plane.position.y =-10;
-        this.plane.position.z = 5;
+        this.plane.position.z = 0;
 
 //  ПИРАМИДА СЛЕВА
 
@@ -49,7 +49,7 @@ export default class {
         this.cone.rotation.y = -0.01 * Math.PI;
         this.cone.position.x = -4;
         this.cone.position.y = 3;
-        this.cone.position.z = 5;
+        this.cone.position.z = 0;
 
 // ПИРАМИДА ПОСЕРЕДИНЕ
 
@@ -62,7 +62,7 @@ export default class {
         this.cone2.rotation.y = -0.05 * Math.PI;
         this.cone2.position.x = 10;
         this.cone2.position.y = 5;
-        this.cone2.position.z = 2;
+        this.cone2.position.z = -3;
 
 // ПИРАМИДА СПРАВА 
 
