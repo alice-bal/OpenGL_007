@@ -16,5 +16,6 @@
 
 ## tutorials 
 
-(Введение в Three.js)[https://habr.com/ru/post/477956/]
-(Работа с основными компонентами)[https://habr.com/ru/post/225199/]
+[Введение в Three.js](https://habr.com/ru/post/477956/)
+[Работа с основными компонентами](https://habr.com/ru/post/225199/)
+[Текстуры](https://r105.threejsfundamentals.org/threejs/lessons/ru/threejs-textures.html)
