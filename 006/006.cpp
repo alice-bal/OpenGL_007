@@ -1,43 +1,6 @@
 // cd ../ && cd 006 && g++ 006.cpp -lGL -lGLU -lGLEW -lglut -o 006 && ./006
-
-#include <stdio.h>
-#include <stdlib.h>
-#include <GL/glut.h>
-#include <time.h>
-
-GLsizei wh = 500,               // initial window size
-        ww = 500; 
-
-int points = 100000;
-
-/* reshaping routine called whenever window is resized or moved */
-void myReshape(GLsizei w, GLsizei h)
-{
-    /* adjust clipping box */
-    glMatrixMode(GL_PROJECTION);
-    glLoadIdentity();
-    glOrtho(0.0, (GLdouble)w, 0.0, (GLdouble)h, -1.0, 1.0);
-    glMatrixMode(GL_MODELVIEW);
-    glLoadIdentity();
-    /* adjust viewport and clear */
-    glViewport(0,0,w,h);
-    glClear(GL_COLOR_BUFFER_BIT);
-    glFlush();
-    /* set global size for use by drawing routine */
-    ww = w;
-    wh = h;
-}
-
-void myinit()
-{
-      glClearColor(0.0, 0.0, 0.0, 0.0);         // background
-      glColor3f(0.0,1.0,1.0);                   // cyan
-
-      glMatrixMode(GL_PROJECTION);
-      glLoadIdentity();
-      gluOrtho2D(0.0, 500.0, 0.0, 500.0);
-      glMatrixMode(GL_MODELVIEW);
-}
+#include "init.h"
+#include "myReshape.h"
 
 void barnsleyFern()
 {
@@ -94,14 +57,10 @@ int main(int argc, char** argv)
 {
     /* Standard GLUT initialization */
     glutInit( &argc, argv );
-    glutInitDisplayMode( GLUT_DOUBLE | GLUT_RGB );                  // double buffering
-    glutInitWindowSize( ww, wh );                                   // 500 x 500 pixel window
-    glutInitWindowPosition( 0, 0 );                                 // place window top left on display
-    glutCreateWindow( "Fractal barnsley fern" );                    // window title
-
-    glutDisplayFunc( barnsleyFern );
-
     myinit();                                                       // set attributes
+    
+    glutDisplayFunc( barnsleyFern );
+    
     glutReshapeFunc (myReshape);
     glutMainLoop();                                                 // enter event loop
 
