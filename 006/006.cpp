@@ -5,7 +5,6 @@
 #include <GL/glut.h>
 #include <time.h>
 
-/* globals */
 GLsizei wh = 500,               // initial window size
         ww = 500; 
 
