@@ -23,3 +23,7 @@ cd ../ && cd 006 && g++ 006.cpp -lGL -lGLU -lGLEW -lglut -o 006 && ./006
 [Папоротник Барнсли на Вики](https://ru.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA_%D0%91%D0%B0%D1%80%D0%BD%D1%81%D0%BB%D0%B8)
 
 [Фракталы](https://github.com/gogovlas/graphics-fractals)
+
+[Фрактальный алгоритм](http://www.opita.net/node/145)
+
+[Математическое описание](http://www.fop1.narod.ru/pap.html)
